@@ -61,15 +61,15 @@ export default function LandingPage() {
       description="Star Roofing & Siding Co offers top-tier residential roofing and siding solutions designed for durability, energy efficiency, and aesthetic appeal. Experience service built on trust."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-sitting-roof_23-2149343640.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-sitting-roof_23-2149343640.jpg?_wi=1",
           imageAlt: "Professional roof installation",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/aerial-shot-rooftops-city-buildings-with-red-shingles_181624-12846.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/aerial-shot-rooftops-city-buildings-with-red-shingles_181624-12846.jpg?_wi=1",
           imageAlt: "Exterior siding repair",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-roof-house-made-wooden-tiles_169016-25417.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-roof-house-made-wooden-tiles_169016-25417.jpg?_wi=1",
           imageAlt: "Residential roof replacement",
         },
         {
@@ -104,7 +104,7 @@ export default function LandingPage() {
           title: "Customer Satisfaction",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/portrait-construction-worker-standing-rooftops-high-silos-storage-tanks_342744-442.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/portrait-construction-worker-standing-rooftops-high-silos-storage-tanks_342744-442.jpg?_wi=1"
       imageAlt="Professional roofer contractor smiling"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
@@ -129,7 +129,7 @@ export default function LandingPage() {
           title: "Siding Installation",
           subtitle: "Modern energy efficiency",
           description: "Premium vinyl, fiber cement, and wood siding options.",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-sitting-roof_23-2149343640.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-sitting-roof_23-2149343640.jpg?_wi=2",
           imageAlt: "professional roofing installation home",
         },
         {
@@ -137,7 +137,7 @@ export default function LandingPage() {
           title: "Storm Repair",
           subtitle: "Rapid disaster response",
           description: "Fast-acting repair services after severe weather incidents.",
-          imageSrc: "http://img.b2bpic.net/free-photo/aerial-shot-rooftops-city-buildings-with-red-shingles_181624-12846.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/aerial-shot-rooftops-city-buildings-with-red-shingles_181624-12846.jpg?_wi=2",
           imageAlt: "professional roofing installation home",
         },
         {
@@ -145,7 +145,7 @@ export default function LandingPage() {
           title: "Gutter Services",
           subtitle: "Prevents water damage",
           description: "Cleaning, repair, and seamless gutter system installations.",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-roof-house-made-wooden-tiles_169016-25417.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-roof-house-made-wooden-tiles_169016-25417.jpg?_wi=2",
           imageAlt: "professional roofing installation home",
         },
         {
@@ -153,7 +153,7 @@ export default function LandingPage() {
           title: "Roof Certification",
           subtitle: "Peace of mind",
           description: "Professional condition reports for property sales or insurance.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-construction-worker-standing-rooftops-high-silos-storage-tanks_342744-442.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-construction-worker-standing-rooftops-high-silos-storage-tanks_342744-442.jpg?_wi=2",
           imageAlt: "professional roofing installation home",
         },
       ]}
